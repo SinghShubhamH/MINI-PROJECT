@@ -3,7 +3,7 @@
 
 # DIY PROJECTS
 
-DIY PROJECTS is a site where you can get a varieties of diy(Do It YourSelf) projects with detailed instructions and project making images. These site is mostly used by hobbyist who are interested in learning and making new things by there own. You can also upload your own unique projects and share with the world and help them to recreate your lovely projects. We also organize weekly contests for creators with exciting prizes and select top projects each week.
+DIY PROJECTS is a site where you can get a varieties of diy(Do It YourSelf) projects with detailed instructions and project making images. This site is mostly used by hobbyist who are interested in learning and making new things by there own. You can also upload your own unique projects and share with the world and help them to recreate your lovely projects. We also organize weekly contests for creators with exciting prizes and select top projects each week.
 
 
 ## Features
